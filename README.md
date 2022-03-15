@@ -9,5 +9,5 @@ So far, readers should find code that reads in a .OSM, can translate it to the c
 I'm hoping this will save a few other people some time and headache.
 
 ### About the Author
-###### Gabriel Flechas is a Mechanical Engineering PhD Student at Colorado School of Mines in the AMBER Lab.
-###### Contact: gflechas@mines.edu
+Gabriel Flechas is a Mechanical Engineering PhD Student at Colorado School of Mines in the AMBER Lab.
+Contact: gflechas@mines.edu
